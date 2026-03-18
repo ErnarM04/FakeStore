@@ -78,7 +78,7 @@ const products = useSelector((state: RootState) => state.products.items);
 
 ---
 
-## 🌍 Internationalization — i18n
+## Multi-language — i18n
  
 This project uses **i18next** with **react-i18next** to support multiple languages out of the box.
  
